@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="448" started-at="2016-05-15T17:25:45Z" finished-at="2016-05-15T17:25:46Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="448" started-at="2016-05-15T17:25:45Z" finished-at="2016-05-15T17:25:46Z">
+      <class name="org.game.sudoku.AppTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.game.sudoku.AppTest@7cf10a6f]" name="setUp" is-config="true" duration-ms="423" started-at="2016-05-15T22:55:45Z" finished-at="2016-05-15T22:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkHowTo()[pri:0, instance:org.game.sudoku.AppTest@7cf10a6f]" name="checkHowTo" duration-ms="1" started-at="2016-05-15T22:55:46Z" finished-at="2016-05-15T22:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHowTo -->
+        <test-method status="PASS" signature="checkPlay()[pri:0, instance:org.game.sudoku.AppTest@7cf10a6f]" name="checkPlay" duration-ms="0" started-at="2016-05-15T22:55:46Z" finished-at="2016-05-15T22:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPlay -->
+        <test-method status="PASS" signature="checkQuit()[pri:0, instance:org.game.sudoku.AppTest@7cf10a6f]" name="checkQuit" duration-ms="1" started-at="2016-05-15T22:55:46Z" finished-at="2016-05-15T22:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkQuit -->
+        <test-method status="PASS" signature="checkStart()[pri:0, instance:org.game.sudoku.AppTest@7cf10a6f]" name="checkStart" duration-ms="2" started-at="2016-05-15T22:55:46Z" finished-at="2016-05-15T22:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStart -->
+      </class> <!-- org.game.sudoku.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

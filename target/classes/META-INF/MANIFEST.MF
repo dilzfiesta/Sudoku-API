@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: soduku
+Implementation-Version: 0.1.0
+Built-By: gyro
+Implementation-Vendor-Id: org.game
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
